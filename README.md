@@ -1,1 +1,5 @@
-# QQ-and-Weixi-Share
+#QQ 、微信分享
+##改代码的目的在于:
+	1.给初学者参考
+	2.以及日后参考用
+### PS: QQ 分享链接的时候，并不会显示缩略图、Title、Description,只会显示链接
